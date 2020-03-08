@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".FinalActivity"></activity>
+        <activity android:name=".LandingActivity"></activity>
+        <activity android:name=".AddphotoActivity" />
+        <activity android:name=".InitialActivity" />
+        <activity android:name=".FinalActivity" />
         <activity android:name=".CompareActivity" />
         <activity android:name=".Swipe" />
         <activity android:name=".Home" />
